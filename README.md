@@ -18,7 +18,7 @@ How To
 
 3rd, run make-deb-package.sh
 
-- devscripts package is needed
+- devscripts, debhelper package is needed
 
 
 * for rpm
