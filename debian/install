@@ -1,0 +1,4 @@
+src/watcherd-bin/*		usr/local/watcherd
+src/watch.conf		etc/watcherd/
+src/sample.d/*		etc/watcherd/mod-available/
+src/watcherd		etc/init.d/

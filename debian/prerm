@@ -1,0 +1,4 @@
+#!/bin/bash
+
+update-rc.d -f watcherd remove
+service watcherd stop

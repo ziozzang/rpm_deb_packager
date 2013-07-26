@@ -1,0 +1,4 @@
+usr/local/watcherd
+etc/watcherd
+etc/watcherd/mod-available
+etc/watcherd/mod-enabled

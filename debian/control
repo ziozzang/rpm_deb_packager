@@ -1,0 +1,13 @@
+Source: watcher
+Section: net
+Priority: extra
+Maintainer: Jioh L. Jung <ziozzang@gmail.com>
+Build-Depends: debhelper (>= 8.0.0)
+Homepage: http://foo.com/asdf
+
+Package: watcher
+Section: net
+Architecture: all
+Depends: ruby, rubygems, sysstat, ruby-hmac, ruby-daemons
+Description: kt ucloud biz watch custom matric
+

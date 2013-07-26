@@ -1,0 +1,5 @@
+watcher (__VERSION__) precise; urgency=low
+
+  * This changelog will be ignored. Please see debian/rules to find modules to build.
+
+ -- Jioh L. Jung <ziozzang@gmail.com>  Thu, 25 Jul 2013 17:06:00 +0900
