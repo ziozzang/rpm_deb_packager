@@ -18,6 +18,8 @@ How To
 
 3rd, run make-deb-package.sh
 
+- devscripts package is needed
+
 
 * for rpm
 
